@@ -85,11 +85,11 @@ button{
     width: 50px;
     height: 20px;
     top: 0px;
-    right: 1px;
+    left: 0px;
     background-color: orangered;
     color: white;
     font-weight: bold;
-    justify-content: center;
+    text-align: center;
 }
 
 .caja:nth-of-type(1){
